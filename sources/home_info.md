@@ -1,0 +1,2 @@
+
+Loremipsum blabla.. ini berisi background dari topik yang diangkat mengenai permasalahan mental health di Indonesia selama masa pandemi, dan dapat menganalisa twit yang masuk untuk diuji apakah pemberi twit tersebut termasuk tergolong kategori orang yang sedang mengalami gangguan mental

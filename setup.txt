@@ -1,0 +1,11 @@
+mkdir -p ~/.streamlit/
+
+echo "\
+[server]\n\
+headless = true\n\
+port = $PORT\n\
+enableCORS = false\n\
+\n\
+" > ~/.streamlit/config.toml
+
+https://discuss.streamlit.io/t/how-to-link-a-button-to-a-webpage/1661/8
